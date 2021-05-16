@@ -111,7 +111,7 @@ const Home = () => {
         id="MarketInegration"
       />
       <h2>Interactive Report</h2>
-      <iframe src="https://datapane.com/u/fivosd/reports/p2p-exchange/embed/"  width="100%" height="540px" frameBorder="0">Iframe not supported.</iframe>
+      <iframe title="something" src="https://datapane.com/u/fivosd/reports/p2p-exchange/embed/"  width="100%" height="540px" frameBorder="0">Iframe not supported.</iframe>
 
       <h1>Other Resources</h1>
       <a href="https://datalore.jetbrains.com/notebook/dAWrqiZjzmB3CeEIfAmHgj/jN70VaV7ckid23gzbbheud/">Link to code notebook</a>
