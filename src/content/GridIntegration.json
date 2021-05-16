@@ -1,0 +1,7 @@
+{
+    "title": "Grid Integration",
+    "text": "In this case we have assumed infinite grid supply (i.e., we will never not be able to tap into it), although just in case the batteries stay at 24Kwh, able to keep four homes up and running for over 24 hours. The main component of grid integration is variable pricing . The grid also plays a role in charging the battery pack when needed. The user can set how much use of the grid it can make. Considering also that the user will be able to optimize battery charging based on g CO2 per Kwh.",
+    "imageOne": "GridDemand.jpg",
+    "imageTwo": "DailyGridEnergyUsage.jpg"
+  }
+  

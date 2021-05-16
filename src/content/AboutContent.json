@@ -1,16 +1,16 @@
 {
-  "title": "Light, Fast & Responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Sustainable Complex",
+  "text": "Consider a set of energy self-sufficient residential homes, which can be powered by either a) solar b) national grid (coal). Further, energy can either be stored (battery & EV’s) or consumed (homes). The exchange would seek to enable each consumer – who might have energy generation and storage capabilities – to optimize their energy consumption, either on a carbon footprint or cost basis. In our example, each node has a unique supply or demand curve which differs over time, our solution should enable overall system optimization.",
   "section": [
     {
-      "title": "Why Antd?",
+      "title": "Energy Production",
       "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
+      "icon": "EnergyGeneration.jpg"
     },
     {
-      "title": "Why styled-components?",
+      "title": "Energy Consumption",
       "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
+      "icon": "EnergyConsumption.jpg"
     }
   ]
 }

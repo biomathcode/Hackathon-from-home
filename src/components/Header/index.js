@@ -35,10 +35,10 @@ const Header = ({ t }) => {
           <S.Span>{t("About")}</S.Span>
         </S.CustomNavLinkSmall>
         <S.CustomNavLinkSmall onClick={() => scrollTo("mission")}>
-          <S.Span>{t("Mission")}</S.Span>
+          <S.Span>{t("Concept")}</S.Span>
         </S.CustomNavLinkSmall>
         <S.CustomNavLinkSmall onClick={() => scrollTo("product")}>
-          <S.Span>{t("Product")}</S.Span>
+          <S.Span>{t("Simulation")}</S.Span>
         </S.CustomNavLinkSmall>
         <S.CustomNavLinkSmall
           style={{ width: "180px" }}
@@ -57,7 +57,7 @@ const Header = ({ t }) => {
       <S.Container>
         <Row type="flex" justify="space-between" gutter={20}>
           <S.LogoContainer to="/" aria-label="homepage">
-            <SvgIcon src="logo.svg" />
+            <img src="/img/images/logo.png" width="100px" height="100px"/>
           </S.LogoContainer>
           <S.NotHidden>
             <MenuItem />

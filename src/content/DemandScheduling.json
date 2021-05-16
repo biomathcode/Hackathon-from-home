@@ -1,0 +1,7 @@
+{
+    "title": "Demand Scheduling",
+    "text": "In the current version we are using a similar demand and price curve, which peaks mid-way in the data-set (representing summer). The similarity between the demand & price curve of-course echo the classic economic assumption.",
+    "imageOne": "HouseHoldDemand.jpg",
+    "imageTwo": "EnergyPrice.jpg"
+  }
+  

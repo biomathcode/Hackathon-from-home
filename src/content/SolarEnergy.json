@@ -1,0 +1,6 @@
+{
+    "title": "Solar Energy Supply Data",
+    "text": "Using NASA’s POWER framework, we can easily access daily historical irradiance data for a given location. We then use this data-set to return the sum daily power-output of the solar array!.",
+    "image": "solarData.jpg"
+  }
+  

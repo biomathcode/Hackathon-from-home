@@ -1,4 +1,4 @@
 {
-  "title": "That's about it!",
-  "text": "If you are familiar with React, or SPA frameworks in general, there shouldn't be any confusing part about this template, if not, you can always reach out to me and I'll try me best to answer your question."
+  "title": "The Energy Consumption Decision",
+  "text": "The first system decision is that of consumption. At any point, the average cost or CO2 per gram per KwH should be the lowest. This means that the system would have to decide whether to consume from the market, generation, storage or any combination of the three. User-interaction would ensure that the system is well prepared in expecting changes in demand.Each of these flows has a cost!."
 }

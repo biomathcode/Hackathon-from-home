@@ -78,6 +78,10 @@ const Styles = createGlobalStyle`
     .ant-notification-notice-icon-success {
         color: rgb(255,130,92);
     }
+    .imageNotLarge {
+        max-width: 600px;
+        max-height: 500px;
+    }
 `;
 
 export default Styles;
